@@ -3,7 +3,7 @@
 - **Name:** Pedro Vasconcelos
 - **What to call them:** Pedro
 - **Pronouns:** *(TBD)*
-- **Timezone:** *(TBD)*
+- **Timezone:** Europe/Lisbon
 - **Notes:** Prefers chill and casual conversation. No corporate speak.
 
 ## Context
